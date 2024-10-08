@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: Brute Force Attack and Malware Injection 
+# Brute Force Attack and Malware Injection 
 
 ## Scenario
 
